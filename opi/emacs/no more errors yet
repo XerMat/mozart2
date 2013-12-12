@@ -1,0 +1,2 @@
+Searched hours to find a solution to a problem I have running oz on 24.3 emacs:
+the C+x` next error chord does not work.  The cursor does not position anywhere in any buffer.  This behavior exhibits for versions 1.4 and 2 on Windows 8.  Can someone suggest a simple fix?
